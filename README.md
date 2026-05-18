@@ -16,6 +16,5 @@
 ## 🔥 Contributions
 ![GitHub Streak](https://streak-stats.demolab.com?user=JeanVinicius23&theme=tokyonight)
 
-## 📫 Contato
 📍 Manaus, Brasil  
 🎓 Universidade Federal do Amazonas (UFAM)
