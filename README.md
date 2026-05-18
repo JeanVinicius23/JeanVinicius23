@@ -3,7 +3,7 @@
 🎓 Estudante de Engenharia de Software do 5º período na UFAM 
 💻 Desenvolvimento de Software | C | Java | HTML  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&width=600&lines=Software+Engineering+Student;C+%7C+Java+%7C+HTML;Learning+Software+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&width=600&lines=Estudante+De+Engenharia de Software;C+%7C+Java+%7C+HTML;Learning+Software+Development" />
 
 ## 🚀 Tecnologias
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
