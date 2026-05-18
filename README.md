@@ -1,6 +1,6 @@
 # Olá, eu sou Jean Vinicius 👋
 
-🎓 Estudante de Engenharia de Software na UFAM  
+🎓 Estudante de Engenharia de Software do 5º período na UFAM 5 
 💻 Desenvolvimento de Software | C | Java | HTML  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&width=600&lines=Software+Engineering+Student;C+%7C+Java+%7C+HTML;Learning+Software+Development" />
